@@ -89,7 +89,7 @@ inv_y = concatenate((x_test, y_test.reshape(-1, 1)), axis=1)
 inv_y = sc.inverse_transform(inv_y)
 real = inv_y[:, -1]
 
-# 计算 RMSE 和 MAPE
+# 均方根误差（RMSE）和 平均绝对百分比误差（MAPE） rmse 和 mape 是回归问题中常用的 评估指标，
 rmse = sqrt(mean_squared_error(real, prediction))
 mape = np.mean(np.abs((real - prediction) / real))
 
