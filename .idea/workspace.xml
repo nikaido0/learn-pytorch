@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a13af2b1-ed3f-4ad8-90c9-9db9d0849d16" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/全连接神经网络空气质量回归预测/model_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/全连接神经网络空气质量回归预测/model_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "ignore_missing_gitignore": "true",
-    "last_opened_file_path": "D:/Projects/pytorch-len/基于卷积神经网络的缺陷检测",
+    "last_opened_file_path": "D:/Projects/pytorch-len/dataset",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,15 +66,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projects\pytorch-len\基于卷积神经网络的缺陷检测" />
       <recent name="D:\Projects\pytorch-len\dataset" />
+      <recent name="D:\Projects\pytorch-len\基于卷积神经网络的缺陷检测" />
       <recent name="D:\Projects\pytorch-len" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\pytorch-len" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.model_test (2)">
+  <component name="RunManager" selected="Python.model_test">
     <configuration name="model_test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytorch-len" />
       <option name="ENV_FILES" value="" />
@@ -131,35 +130,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/全连接神经网络实战---乳腺癌检测" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/循环神经网络-黄金价格预测" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/全连接神经网络实战---乳腺癌检测/model_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="model_train (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pytorch-len" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/全连接神经网络空气质量回归预测" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/全连接神经网络空气质量回归预测/model_train.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/循环神经网络-黄金价格预测/model_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,13 +167,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="model_train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorch-len" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/循环神经网络-黄金价格预测" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/循环神经网络-黄金价格预测/model_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.model_test" />
+        <item itemvalue="Python.model_train" />
         <item itemvalue="Python.model_test (2)" />
         <item itemvalue="Python.model_train (2)" />
         <item itemvalue="Python.model_test (1)" />
-        <item itemvalue="Python.model_train (1)" />
-        <item itemvalue="Python.model_test" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +217,8 @@
       <updated>1730683284538</updated>
       <workItem from="1730683285945" duration="12567000" />
       <workItem from="1730943912115" duration="20517000" />
-      <workItem from="1731040892167" duration="9214000" />
+      <workItem from="1731040892167" duration="13837000" />
+      <workItem from="1731219922768" duration="6054000" />
     </task>
     <servers />
   </component>
@@ -238,12 +238,12 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pytorch_len$linear_regression.coverage" NAME="linear-regression 覆盖结果" MODIFIED="1730683922942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pytorch_len$model_test__2_.coverage" NAME="model_test (2) 覆盖结果" MODIFIED="1731051406156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基于卷积神经网络的缺陷检测" />
+    <SUITE FILE_PATH="coverage/pytorch_len$model_test__2_.coverage" NAME="model_test (2) 覆盖结果" MODIFIED="1731051550537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基于卷积神经网络的缺陷检测" />
     <SUITE FILE_PATH="coverage/pytorch_len$model_train__1_.coverage" NAME="model_train (1) 覆盖结果" MODIFIED="1730962513290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/全连接神经网络空气质量回归预测" />
     <SUITE FILE_PATH="coverage/pytorch_len$model_test__1_.coverage" NAME="model_test (1) 覆盖结果" MODIFIED="1730966000701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/全连接神经网络空气质量回归预测" />
     <SUITE FILE_PATH="coverage/pytorch_len$logistic_regression.coverage" NAME="logistic-regression 覆盖结果" MODIFIED="1730702769143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pytorch_len$model_test.coverage" NAME="model_test 覆盖结果" MODIFIED="1730955892048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/全连接神经网络实战---乳腺癌检测" />
-    <SUITE FILE_PATH="coverage/pytorch_len$model_train.coverage" NAME="model_train 覆盖结果" MODIFIED="1730949737778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/全连接神经网络实战---乳腺癌检测" />
+    <SUITE FILE_PATH="coverage/pytorch_len$model_train.coverage" NAME="model_train 覆盖结果" MODIFIED="1731229237350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/循环神经网络-黄金价格预测" />
     <SUITE FILE_PATH="coverage/pytorch_len$model_train__2_.coverage" NAME="model_train (2) 覆盖结果" MODIFIED="1731046410699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基于卷积神经网络的缺陷检测" />
   </component>
 </project>
